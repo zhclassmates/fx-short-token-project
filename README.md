@@ -27,3 +27,4 @@
 - `fx-local-dev/` 与 `fx-short-token-project/` 的合约与配置基本一致，建议确定主目录后再做合并或清理。
 - `fx-local-dev/node_modules/` 与 `fx-local-dev/artifacts/` 为可再生目录，如进入版本控制建议加入 `.gitignore`。
 - `doc/` 与 `fx-short-token-project/docs/` 文档有重复，可考虑统一入口。
+Entire official Code review trial test.
